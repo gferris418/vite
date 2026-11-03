@@ -71,7 +71,7 @@
   "dependencies": {
     "lightningcss": "^1.32.0",
     "picomatch": "^4.0.5",
-    "postcss": "^8.5.16",
+    "postcss": "^8.5.23",
     "rolldown": "~1.1.4",
     "tinyglobby": "^0.2.17"
   },
@@ -90,7 +90,7 @@
     "@vitest/utils": "4.1.9",
     "@voidzero-dev/vite-task-client": "^0.2.0",
     "artichokie": "^0.4.4",
-    "baseline-browser-mapping": "^2.10.42",
+    "baseline-browser-mapping": "^2.11.0",
     "cac": "^7.0.0",
     "chokidar": "^3.6.0",
     "connect": "^3.7.0",
@@ -110,7 +110,7 @@
     "magic-string": "^0.30.21",
     "mlly": "^1.8.2",
     "mrmime": "^2.0.1",
-    "nanoid": "^5.1.16",
+    "nanoid": "^6.0.2",
     "obug": "^1.0.2",
     "open": "^10.2.0",
     "parse5": "^8.0.1",
